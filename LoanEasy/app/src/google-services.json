@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240477307583",
+    "firebase_url": "https://easyloan-247sa.firebaseio.com",
+    "project_id": "easyloan-247sa",
+    "storage_bucket": "easyloan-247sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240477307583:android:797214aa29986e214fbc0a",
+        "android_client_info": {
+          "package_name": "com.android.easyloan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240477307583-g2f2td1qvh14160nmals5o7cbtcpckjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWLgLZsjqB8f7sBXmfZF9tjoD1vnjm44g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240477307583-g2f2td1qvh14160nmals5o7cbtcpckjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
